@@ -1,0 +1,6 @@
+framework module Pods_RKUtils_Tests {
+  umbrella header "Pods-RKUtils_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

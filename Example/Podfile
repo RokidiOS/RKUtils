@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RKUtils_Tests' do
+  pod 'RKUtils', :path => '../'
+  
+  
+end

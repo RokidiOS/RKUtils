@@ -1,0 +1,16 @@
+PODS:
+  - RKUtils (0.1.1)
+
+DEPENDENCIES:
+  - RKUtils (from `../`)
+
+EXTERNAL SOURCES:
+  RKUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RKUtils: 702ce9ced5b48d4a464a58e719a81b882db5669d
+
+PODFILE CHECKSUM: aec72d68ce59a16b03bc71cd598f6b16c4f78816
+
+COCOAPODS: 1.11.2
